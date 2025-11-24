@@ -4,4 +4,4 @@ plotly
 groq
 python-dotenv
 openpyxl
-Plotly.express
+plotly.express
